@@ -84,8 +84,9 @@ A strong interest in time series analysis and dynamic systems, along with compet
 - 随着越来越多的卫星发射，太空环境变得越来越拥挤。为了保护太空资产，提升跟踪和轨道预测能力至关重要。因此，研究人员被激励去分析和表征卫星的生活模式（POL）——即卫星在轨道上的行为叙述——使用从太空收集的数据。
 
 **Reference:**
-1. Siew, Peng Mun, et al. "AI SSA Challenge Problem: Satellite Pattern-of-Life Characterization Dataset and Benchmark Suite." Proceedings of the 24th Advanced Maui Optical and Space Surveillance Technologies Conference (AMOS). 2023.
-2. Siew, Peng Mun, et al. "Satellite Pattern-of-Life Identification Challenge: Competition Design and Results."
+1. [Siew, Peng Mun, et al. "AI SSA Challenge Problem: Satellite Pattern-of-Life Characterization Dataset and Benchmark Suite." Proceedings of the 24th Advanced Maui Optical and Space Surveillance Technologies Conference (AMOS). 2023.](https://amostech.com/TechnicalPapers/2023/Machine-Learning-for-SDA/Siew2.pdf)
+2. [Siew, Peng Mun, et al. "Satellite Pattern-of-Life Identification Challenge: Competition Design and Results."](https://amostech.com/TechnicalPapers/2024/Poster/Siew.pdf)
+
 
 **Remarks:**  
 A strong interest in time series analysis and dynamic systems, along with competent programming skills, is preferred.
@@ -102,10 +103,10 @@ A strong interest in time series analysis and dynamic systems, along with compet
 - 步态异常检测在医疗保健和研究中发挥着关键作用，通过分析人类运动模式提供对健康状况的重要见解。当前的方法往往无法捕捉步态数据中的动态细微差异，从而限制了准确的异常识别。通过利用各种传感器数据并探索一系列分析方法，本项目旨在推动异常检测系统的边界。这种全面的方法旨在提高异常检测的精度和有效性，为改善患者护理和变革性医疗实践铺平道路。
 
 **Reference:**
-1. Wang, X., Yu, L., Wang, H., Tsui, K. L., & Zhao, Y. (2024). Sensor-Based Multifaceted Feature Extraction and Ensemble Elastic Net Approach for Assessing Fall Risk in Community-Dwelling Older Adults. IEEE Journal of Biomedical and Health Informatics.
-2. Nguyen, T. N., Huynh, H. H., & Meunier, J. (2016). Skeleton-based abnormal gait detection. Sensors, 16(11), 1792.
-3. Faisal, A. I., Mondal, T., & Deen, M. J. (2023). Systematic development of a simple human gait index. IEEE reviews in biomedical engineering, 17, 229-242.
-4. Jeon, S., Lee, K. M., & Koo, S. (2021). Anomalous gait feature classification from 3-D motion capture data. IEEE Journal of Biomedical and Health Informatics, 26(2), 696-703.
+1. [Wang, X., Yu, L., Wang, H., Tsui, K. L., & Zhao, Y. (2024). Sensor-Based Multifaceted Feature Extraction and Ensemble Elastic Net Approach for Assessing Fall Risk in Community-Dwelling Older Adults. IEEE Journal of Biomedical and Health Informatics.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10643648)
+2. [Nguyen, T. N., Huynh, H. H., & Meunier, J. (2016). Skeleton-based abnormal gait detection. Sensors, 16(11), 1792.](https://www.mdpi.com/1424-8220/16/11/1792)
+3. [Faisal, A. I., Mondal, T., & Deen, M. J. (2023). Systematic development of a simple human gait index. IEEE reviews in biomedical engineering, 17, 229-242.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10132593)
+4. [Jeon, S., Lee, K. M., & Koo, S. (2021). Anomalous gait feature classification from 3-D motion capture data. IEEE Journal of Biomedical and Health Informatics, 26(2), 696-703.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9506854)
 
 **Remarks:**  
 Strong programming skills (R or Python) are assumed. Experience with sensor or high-dimensional data is appreciated.
