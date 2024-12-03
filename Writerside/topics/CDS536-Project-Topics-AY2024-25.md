@@ -1,7 +1,7 @@
 # CDS536 Project Topics (AY2024-25)
 ---
 
-## No. Topic | Supervisor | Remarks
+## Project list:
 
 1. **Power System Oscillations Localization**  
    Supervisor: Prof. Yanfang MO  

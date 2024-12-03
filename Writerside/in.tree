@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="in"
-                 name="Instance Name"
+                 name="CDS536 Project AY2024-25"
                   start-page="CDS536-Project-Topics-AY2024-25.md">
 
     <toc-element topic="CDS536-Project-Topics-AY2024-25.md"/>
