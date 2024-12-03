@@ -10,13 +10,13 @@ permissions:
   pages: write
 
 env:
-  INSTANCE: 'Writerside/jlp'
-  ARTIFACT: 'webHelpJLP2-all.zip'
+  INSTANCE: 'Writerside/in'
+  ARTIFACT: 'webHelpIN2-all.zip'
   DOCKER_VERSION: '242.21870'
 
 jobs:
   build:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
