@@ -60,7 +60,7 @@
 ## Detailed Topics:
 
 ## Topic 1: Power System Oscillations Localization
-**Supervisor: Prof. Yanfang MO**
+**Supervisor:** Prof. Yanfang MO
 
 **Description:**  
 - Sustained oscillations in power systems can lead to equipment damage and system failures. With the massive deployment of phasor measurement units (PMUs), researchers have been exploring effective methods to characterize oscillations and identify their sources using PMU measurements.
@@ -77,7 +77,7 @@ A strong interest in time series analysis and dynamic systems, along with compet
 ---
 
 ## Topic 2: Satellite Pattern-of-Life Characterization
-**Supervisor: Prof. Yanfang MO**
+**Supervisor:** Prof. Yanfang MO
 
 **Description:**  
 - As more satellites are launched, the space environment grows more congested. It is essential to protect space assets by improving tracking and orbit prediction capabilities. Consequently, researchers are motivated to analyze and characterize the satellites’ patterns of life (POL) —the behavioral narrative of a satellite in orbit—using the data collected from space.
@@ -93,8 +93,9 @@ A strong interest in time series analysis and dynamic systems, along with compet
 ---
 
 ## Topic 3: Advancing Gait Anomaly Detection through Multisensory Data Analysis
-**Supervisor: Prof. Lisha YU**
-Type of Project: Application
+**Supervisor:** Prof. Lisha YU
+
+**Type of Project:** Application
 
 **Description:**  
 - Gait anomaly detection plays a pivotal role in healthcare and research, offering crucial insights into health conditions by analyzing human movement patterns. Current methodologies often fall short in capturing the dynamic nuances within gait data, limiting accurate anomaly identification. By harnessing a variety of sensor data and exploring a spectrum of analytical approaches, this project aims to push the boundaries of anomaly detection systems. This comprehensive approach seeks to improve the precision and effectiveness of anomaly detection, paving the way for enhanced patient care and transformative healthcare practices.
@@ -112,8 +113,9 @@ Strong programming skills (R or Python) are assumed. Experience with sensor or h
 ---
 
 ## Topic 4: Transforming Human-Computer Dialogues with Personality Annotation
-**Supervisor: Prof. Jiaxing Shen**
-Type of Project: Research
+**Supervisor:** Prof. Jiaxing Shen
+
+**Type of Project:** Research
 
 **Description:**  
 - The goal of this research is to create a large-scale dataset of Human-Computer Dialogue (HCD) annotated with detailed personality profiles. Current datasets often fail to distinguish between Human-Human Dialogue (HHD) and HCD, leading to a lack of nuanced data for training personality-aware AI systems. This project will address this gap by fine-tuning a large language model (LLM) to transform existing HCD datasets into dialogues that reflect specified personality traits while preserving semantic content. The method involves minimizing deviations in content while maximizing alignment with target personality traits using a dual-objective optimization approach.
@@ -128,8 +130,9 @@ Type of Project: Research
 ---
 
 ## Topic 5: Dynamic Personality Recognition through Multimodal AI Systems
-**Supervisor: Prof. Jiaxing Shen**
-Type of Project: Research
+**Supervisor:** Prof. Jiaxing Shen
+
+**Type of Project:** Research
 
 **Description:**  
 - This research focuses on developing a system capable of dynamically recognizing and updating user personality traits during interactions using multimodal data. Traditional approaches rely on static or single-modality methods, limiting their ability to capture the evolving nature of human personalities. This project proposes a Bayesian framework that integrates conversation data (e.g., linguistic patterns) and interaction data (e.g., turn-taking behavior) to provide real-time personality estimates.
@@ -144,8 +147,9 @@ Type of Project: Research
 ---
 
 ## Topic 6: Enabling Consistent Multi-Trait Personality Induction in LLMs
-**Supervisor: Prof. Jiaxing Shen**
-Type of Project: Research
+**Supervisor:** Prof. Jiaxing Shen
+
+**Type of Project:** Research
 
 **Description:**  
 - This research aims to enable large language models (LLMs) to emulate multiple personality traits consistently and accurately during interactions. Existing methods often focus on single traits or fail to resolve conflicts between multiple traits, leading to inconsistent or disjointed outputs. This project addresses these limitations by generating descriptive adjectives for various traits using domain knowledge (e.g., psychological frameworks) and refining them to eliminate potential conflicts using semantic knowledge graphs like ConceptNet.
@@ -160,7 +164,7 @@ Type of Project: Research
 ---
 
 ## Topic 7: Leveraging Generative AI for Enhanced Programming Guidance: A Student-Centric Approach
-**Supervisor: Prof. FONG Chi Kit Ken**
+**Supervisor:** Prof. FONG Chi Kit Ken
 
 **Description:**  
 - Programming is one of the essential skills for all Data Science students. Novice programmers often struggle to comprehend computer programming, as they must learn a variety of skills simultaneously, including programming constructs (such as lists, loops, conditional statements, etc.) and the debugging process. Many students dislike programming courses, believing that these subjects are difficult to learn. They frequently encounter issues in writing and designing clear programs. One significant factor contributing to this problem is the inadequate support provided to students. Additionally, there is a statistical correlation between learning styles and performance in computing-related courses. Artificial Intelligent (AI) interventions are needed to address this issue.
@@ -178,7 +182,7 @@ Levy, Dan and Angela, Pérez Albertos. Teaching Effectively with ChatGPT: A prac
 ---
 
 ## Topic 8: Innovative Tools for Evaluating Presentation Performance: A Computer Vision and Speech Approach
-**Supervisor: Prof. FONG Chi Kit Ken**
+**Supervisor:** Prof. FONG Chi Kit Ken
 
 **Description:**
 
@@ -201,8 +205,9 @@ Levy, Dan and Angela, Pérez Albertos. Teaching Effectively with ChatGPT: A prac
 ---
 
 ## Topic 9: A mobile app promoting mindfulness and mental health
-**Supervisor: Prof. LEE Kwan Yeung**
-Type of Project: Application
+**Supervisor:** Prof. LEE Kwan Yeung
+
+**Type of Project:** Application
 
 **Description:**  
 - Mindfulness refers to the basic skills that facilitate people's development of full awareness of where they are and what they are doing so that they will not be overly reactive or overwhelmed by what is happening around them. Mindfulness practices have been applied as therapies to address the problem of depression, stress, anxiety, and drug addiction. In this project, your team is required to develop a mobile app that promotes mental health by (1) guiding users to perform mindfulness practices interactively through a traditional step-by-step wizard complemented with a variety of multimedia and (2) recording the results of each mindfulness practice and regularly generating summary reports. Your team is also encouraged to explore the possibility of implementing a virtual mindfulness training tutor through customizing an existing large language model chatbot with prompt engineering.
@@ -211,8 +216,9 @@ Type of Project: Application
 ---
 
 ## Topic 10: A web application assisting university students in course selection
-**Supervisor: Prof. LEE Kwan Yeung**
-Type of Project: Application
+**Supervisor:** Prof. LEE Kwan Yeung
+
+**Type of Project:** Application
 
 **Description:**  
 - It is always difficult for first-year university students to get used to the paradigm shift from having every course preassigned to having the freedom to select courses they feel interested in. In this project, your team is required to develop a web application that assists students in selecting and scheduling courses. The web application is designed to (1) facilitate easier and more efficient course searching, (2) visualize every course that a student has selected with a timetable interface and (3) identify every potential time conflict between selected courses. Your team is also encouraged to explore the possibility of implementing a virtual academic advisor through customizing an existing large language model chatbot with prompt engineering.
@@ -221,8 +227,9 @@ Type of Project: Application
 ---
 
 ## Topic 11: A sign language interpreter software promoting equal opportunities
-**Supervisor: Prof. LEE Kwan Yeung**
-Type of Project: Application
+**Supervisor:** Prof. LEE Kwan Yeung
+
+**Type of Project:** Application
 
 **Description:**  
 - Sign language is the major way of communication for hearing-impaired people. However, sign language is not commonly taught as a second language in schools. As a result, it would often be challenging for hearing-impaired people to communicate with others in daily life. This communication barrier may be resolved if there is sophisticated software that can translate sign language into written language and vice versa. In this project, your team is required to develop software with a user-friendly GUI that can recognize sign language hand gestures in the live video feed captured from a camera and translate these gestures into written language. Your team is also encouraged to explore the possibility of translating written language into sign language hand gestures with generative AI models.
@@ -231,8 +238,9 @@ Type of Project: Application
 ---
 
 ## Topic 12: Automatic diagnosis of the atrial fibrillation with deep learning model
-**Supervisor: Prof. LEE Kwan Yeung**
-Type of Project: Research
+**Supervisor:** Prof. LEE Kwan Yeung
+
+**Type of Project:** Research
 
 **Description:**  
 - Atrial fibrillation (AF) refers to the medical condition that the atrial chambers of the heart are beating rapidly and irregularly which can increase the risk of stroke, heart failure, and other heart-related complications. Physicians can confirm their diagnosis of AF by interpreting the standard 12-lead ECG diagram. As a result, if a model can be learned to differentiate the ECG signals of healthy samples from the ECG signals of the AF patients, the diagnosis of AF can hence be automated. In this project, your team is expected to develop deep-learning models for detecting AF. Your team is also expected to conduct experiments to compare the performance of your model against existing models using public datasets.
@@ -244,11 +252,22 @@ Ribeiro, A.H., Ribeiro, M.H., Paixão, G.M.M. et al. Automatic diagnosis of the 
 ---
 
 ## Topic 13: Developing a Policy QA System Using Retrieval-Augmented Generation (RAG) Framework
-**Supervisor: Prof. Nan LI Nancy**
+**Supervisor:** Prof. Nan LI Nancy
 
 **Description:**  
 - Policies are often complex, lengthy, and filled with technical language, making it challenging for individuals to extract the specific information they need efficiently. A policy QA System aims to bridge this gap by providing concise, accurate, and user-friendly answers to policy-related queries. Traditional QA systems typically have pre-defined QA pairs and then use information retrieval techniques to find QA pairs related to users’ questions. As LLM becomes popular, a machine can generate answers without retrieving information. However, generation-based systems often face a significant challenge – hallucinations, where the system generates incorrect or fabricated information that lacks grounding in factual data, which is a critical problem for a policy QA system.
 - 政策通常复杂、冗长，并充斥着技术性语言，这使得个人难以高效地提取他们需要的具体信息。政策问答系统旨在通过为与政策相关的查询提供简洁、准确和用户友好的答案来弥合这一差距。传统的问答系统通常具有预定义的问答对，然后使用信息检索技术找到与用户问题相关的问答对。随着LLM的普及，机器可以在不检索信息的情况下生成答案。然而，基于生成的系统往往面临一个重大挑战——幻觉，即系统生成不正确或捏造的信息，缺乏基于事实数据的基础，这对政策问答系统来说是一个关键问题。
 
-- This project addresses the hallucination problem by developing a QA system based on the Retrieval-Augmented Generation (RAG) framework. RAG combines the best of retrieval-based and generation-based approaches, aiming to significantly reduce hallucinations in language model outputs by grounding answers in factual, retrieved data. The RAG framework operates through two main components: the retrieved part and the generation part. The retrieval part retrieves relevant policy documents or sections from policy documents on user queries. The generation part synthesizes an easy-to-understand response based on the retrieved content. Unlike standalone generative models that may invent fake details when faced with incomplete information, the RAG approach ensures that all answers are firmly rooted in the retrieved policy data. This enhances the credibility and reliability of the system
-- 本项目通过开发基于检索增强生成（RAG）框架的问答系统来解决幻觉问题。RAG结合了基于检索和基于生成的方法的优点，旨在通过将答案基于事实的检索数据来显著减少语言模型输出中的幻觉。RAG框架通过两个主要组件运行：检索部分和生成部分。检索部分从用户查询中检索相关的政策文件或政策文件的部分。生成部分根据检索到的内容综合出易于理解的响应。与独立的生成模型不同，当面对不完整信息时可能会虚构假细节，RAG方法确保所有答案都牢固根植于检索到的政策数据中。这增强了系统的可信度和可靠性。
+- This project addresses the hallucination problem by developing a QA system based on the Retrieval-Augmented Generation (RAG) framework. RAG combines the best of retrieval-based and generation-based approaches, aiming to significantly reduce hallucinations in language model outputs by grounding answers in factual, retrieved data. The RAG framework operates through two main components: the retrieved part and the generation part. The retrieval part retrieves relevant policy documents or sections from policy documents on user queries. The generation part synthesizes an easy-to-understand response based on the retrieved content. Unlike standalone generative models that may invent fake details when faced with incomplete information, the RAG approach ensures that all answers are firmly rooted in the retrieved policy data. This enhances the credibility and reliability of the system. An additional challenge in building such a system is balancing speed and accuracy. While users often expect rapid responses, the system must also ensure that answers are precise and factually grounded. Students will explore various techniques to optimize this trade-off, ensuring that the QA system is both efficient and accurate for real-time policy inquiries.
+- 本项目通过开发基于检索增强生成（RAG）框架的问答系统来解决幻觉问题。RAG结合了检索式和生成式方法的优点，旨在通过将答案基于事实的检索数据来显著减少语言模型输出中的幻觉。RAG框架通过两个主要组件运行：检索部分和生成部分。检索部分从用户查询中检索相关的政策文件或政策文件的部分。生成部分根据检索到的内容综合出易于理解的响应。与独立的生成模型不同，当面对不完整信息时可能会虚构虚假细节，RAG方法确保所有答案都牢固根植于检索到的政策数据中。这增强了系统的可信度和可靠性。构建这样一个系统的另一个挑战是平衡速度和准确性。虽然用户通常希望快速获得答复，但系统还必须确保答案准确和基于事实。学生将探索各种技术来优化这种权衡，确保问答系统对实时政策查询既高效又准确。
+
+**Techniques that may come across:**
+- Strong programming skills.
+- Familiar with NLP algorithms.
+
+**Remarks:**
+This is a practical-oriented project. Similar approaches have been adopted by several institutions. The depths of the knowledge used in the project will be tailored to students' capabilities. External staff support is available.
+
+**Reference:**
+1. Lewis, P., Perez, E., Piktus, A., Petroni, F., Karpukhin, V., Goyal, N., ... & Kiela, D. (2020). Retrieval-augmented generation for knowledge-intensive nlp tasks. Advances in Neural Information Processing Systems, 33, 9459-9474.
+2. Gao, Y., Xiong, Y., Gao, X., Jia, K., Pan, J., Bi, Y., ... & Wang, H. (2023). Retrieval-augmented generation for large language models: A survey. arXiv preprint arXiv:2312.10997.
