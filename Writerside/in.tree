@@ -4,7 +4,17 @@
 
 <instance-profile id="in"
                  name="CDS536 Project AY2024-25"
-                  start-page="CDS536-Project-Topics-AY2024-25.md">
+                  start-page="Transforming-Human-Computer-Dialogues-with-Personality-Annotation.md">
 
+    <toc-element topic="Transforming-Human-Computer-Dialogues-with-Personality-Annotation.md"/>
+    <toc-element topic="Background.md"/>
+    <toc-element topic="Motivation.md"/>
+    <toc-element topic="Problem.md"/>
+    <toc-element topic="Existing-methods-literature-review.md"/>
+    <toc-element topic="Our-approach.md"/>
+    <toc-element topic="Challenges.md"/>
+    <toc-element topic="Solutions.md"/>
+    <toc-element topic="Evaluations.md"/>
+    <toc-element topic="Our-Team.md"/>
     <toc-element topic="CDS536-Project-Topics-AY2024-25.md"/>
 </instance-profile>

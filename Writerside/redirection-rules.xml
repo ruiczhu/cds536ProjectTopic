@@ -14,4 +14,14 @@
         <description>Created after removal of "Topic list" from Instance Name</description>
         <accepts>Topic-list.html</accepts>
     </rule>
+    <rule id="6093f10a">
+        <description>Created after removal of "Transforming Human-Computer Dialogues with Personality Annotation" from
+            CDS536 Project AY2024-25
+        </description>
+        <accepts>Transforming-Human-Computer-Dialogues-with-Personality-Annotation.html</accepts>
+    </rule>
+    <rule id="3afb76b5">
+        <description>Created after removal of "Big Five" from CDS536 Project AY2024-25</description>
+        <accepts>Big-Five.html</accepts>
+    </rule>
 </rules>
